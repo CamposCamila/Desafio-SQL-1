@@ -48,7 +48,9 @@ Tabelas voltadas para expansão e integração com sistemas de análise e BI.
 🧾 Autor(a)
 
 👩‍💻 Camila Campos
+
 📚 Estudante de Administração com foco em Análise de Dados e Inteligência Artificial
+
 🌐 [LinkedIn](https://linkedin.com/in/camilascampos)
 
 ![Image Alt](https://github.com/CamposCamila/Desafio-SQL/blob/4f0b72e8bfe9a30148e59f40dd3acfdab4cdc8c9/Projeto%20de%20E-Commerce%20no%20MySQL%20Refinado.png)
