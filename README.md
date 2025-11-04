@@ -6,7 +6,7 @@ Modelagem de Banco de Dados para E-Commerce
 
 Este projeto apresenta a modelagem de um banco de dados para um sistema de E-Commerce, com o objetivo de representar de forma clara e eficiente as principais entidades, relacionamentos e regras de negócio envolvidas em uma loja virtual.
 
-A modelagem foi desenvolvida para um desafio de Bootcamp de análise de dados com o uso do MySQL.
+A modelagem foi desenvolvida para um desafio de Bootcamp de análise de dados.
 
 🧩 Objetivos
 
