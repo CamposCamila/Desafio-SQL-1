@@ -11,7 +11,7 @@ A modelagem foi desenvolvida para um desafio de um Bootcamp de análise de dados
 
 Criar uma estrutura relacional organizada e otimizada.
 
-Representar as principais entidades de um E-Commerce, como Fornecedor, Estoque, Produtos, Pedidos, Pagamentos e Entregas.
+Representar as principais entidades de um E-Commerce, como Fornecedor, Estoque, Produtos, Clientes, Pedidos, Pagamentos e Entregas.
 
 Garantir a integridade referencial e boas práticas de modelagem.
 
