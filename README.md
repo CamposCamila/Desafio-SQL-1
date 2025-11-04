@@ -1,5 +1,5 @@
 # Desafio-SQL-1
-Modelagem para E-Commerce
+Modelagem de Banco de Dados para E-Commerce
 
 📘 Sobre o Projeto
 
