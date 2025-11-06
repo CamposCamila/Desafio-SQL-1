@@ -1,0 +1,9 @@
+# Forçar o GitHub Linguist a reconhecer arquivos .sql como SQL
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+
+# Ignorar arquivos que não contam como código
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.md linguist-vendored
