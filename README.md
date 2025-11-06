@@ -30,8 +30,6 @@ Implementação de restrições de integridade (CHECK, NOT NULL, UNIQUE).
 
 MySQL
 
-*.sql linguist-language=SQL
-
 
 🧾 Autor(a)
 
