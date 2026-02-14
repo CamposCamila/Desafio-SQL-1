@@ -8,7 +8,7 @@ Este projeto apresenta a modelagem de um banco de dados para um sistema de E-Com
 
 A modelagem foi desenvolvida para um desafio de Bootcamp de análise de dados.
 
-🧩 Objetivos
+🎯 Objetivos
 
 Criar uma estrutura relacional organizada e otimizada.
 
